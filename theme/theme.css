@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    background-image: url(https://i.redd.it/6uvdo35wo16f1.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    color: rgb(246, 244, 244);
+    font-size: 150px;
+    text-align: center;
+    padding-top: 550px;
+    
+}
+button{
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 790px;
+    background-color: aqua;
+    border: none;
+    border-radius: 8px;
+}
